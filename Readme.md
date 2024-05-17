@@ -1,5 +1,7 @@
 README - Carts Game
 
+https://dafnash.itch.io/shop-top
+
 ## Division of Work
 
 We followed a collaborative approach where everyone contributed to every aspect of the project.
